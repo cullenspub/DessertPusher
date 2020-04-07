@@ -40,7 +40,7 @@ Android Studio v3.6.1
 
 ## Authors
 
-* **Cullen Davis https://github.com:cullenspub/AboutMe
+* **Cullen Davis https://github.com:cullenspub/DessertPusher.git  
 
 ## License
 
